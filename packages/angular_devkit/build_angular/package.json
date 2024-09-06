@@ -33,7 +33,7 @@
     "esbuild-wasm": "0.19.11",
     "fast-glob": "3.3.2",
     "https-proxy-agent": "7.0.2",
-    "http-proxy-middleware": "2.0.6",
+    "http-proxy-middleware": "3.0.1",
     "inquirer": "9.2.12",
     "jsonc-parser": "3.2.0",
     "karma-source-map-support": "1.4.0",
@@ -67,7 +67,7 @@
     "watchpack": "2.4.0",
     "webpack": "5.89.0",
     "webpack-dev-middleware": "6.1.1",
-    "webpack-dev-server": "4.15.1",
+    "webpack-dev-server": "5.1.0",
     "webpack-merge": "5.10.0",
     "webpack-subresource-integrity": "5.1.0"
   },
