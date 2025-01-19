@@ -49,7 +49,7 @@
     "parse5-html-rewriting-stream": "7.0.0",
     "picomatch": "3.0.1",
     "piscina": "4.2.1",
-    "postcss": "8.4.33",
+    "postcss": "8.5.0",
     "postcss-loader": "7.3.4",
     "resolve-url-loader": "5.0.0",
     "rxjs": "7.8.1",
