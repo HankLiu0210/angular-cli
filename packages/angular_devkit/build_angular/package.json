@@ -10,7 +10,7 @@
     "@angular-devkit/architect": "0.0.0-EXPERIMENTAL-PLACEHOLDER",
     "@angular-devkit/build-webpack": "0.0.0-EXPERIMENTAL-PLACEHOLDER",
     "@angular-devkit/core": "0.0.0-PLACEHOLDER",
-    "@babel/core": "7.23.7",
+    "@babel/core": "7.26.10",
     "@babel/generator": "7.23.6",
     "@babel/helper-annotate-as-pure": "7.22.5",
     "@babel/helper-split-export-declaration": "7.22.6",
